@@ -1,0 +1,54 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# === Jupyter Notebooks Checkpoints ===
+.ipynb_checkpoints/
+
+# === Virtual Environment ===
+venv/
+ENV/
+env/
+.venv/
+
+# === Logs and temporary files ===
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# === VSCode and IDE settings ===
+.vscode/
+.idea/
+*.code-workspace
+
+# === Data files ===
+*.csv
+*.tsv
+*.zip
+*.gz
+*.h5
+*.db
+
+# === Environment and dependency files ===
+.env
+.env.*
+
+# === Jupyter Notebook Metadata (optional) ===
+*.nbconvert.ipynb
+
+# === MacOS ===
+.DS_Store
+
+# === Windows ===
+ehthumbs.db
+Icon?
+Thumbs.db
