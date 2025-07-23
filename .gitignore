@@ -31,13 +31,13 @@ Thumbs.db
 *.code-workspace
 
 # === Data files ===
-*.csv
 *.tsv
 *.zip
 *.gz
 *.h5
 *.db
 
+*.docx
 *.pdf
 
 # === Environment and dependency files ===
