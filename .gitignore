@@ -38,6 +38,8 @@ Thumbs.db
 *.h5
 *.db
 
+*.pdf
+
 # === Environment and dependency files ===
 .env
 .env.*
